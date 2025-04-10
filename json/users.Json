@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "username": "jdoe",
+    "fullName": "John Doe",
+    "email": "jdoe@example.com",
+    "roleId": 1
+  },
+  {
+    "id": 2,
+    "username": "asmith",
+    "fullName": "Alice Smith",
+    "email": "asmith@example.com",
+    "roleId": 2
+  },
+  {
+    "id": 3,
+    "username": "bwayne",
+    "fullName": "Bruce Wayne",
+    "email": "bwayne@example.com",
+    "roleId": 3
+  }
+]

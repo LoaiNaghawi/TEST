@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1001,
+    "name": "Ergonomic Office Chair",
+    "catID": 1,
+    "catName": "Furniture",
+    "price": 149.99,
+    "currency": "USD",
+    "stock": 25,
+    "tags": ["office", "comfort", "adjustable"]
+  },
+  {
+    "id": 1002,
+    "name": "4K LED Monitor 27\"",
+    "catID": 2,
+    "catName": "Electronics",
+    "price": 329.95,
+    "currency": "USD",
+    "stock": 12,
+    "tags": ["display", "monitor", "4k"]
+  },
+  {
+    "id": 1003,
+    "name": "Standing Desk Converter",
+    "catID": 1,
+    "catName": "Furniture",
+    "price": 199.0,
+    "currency": "USD",
+    "stock": 15,
+    "tags": ["workspace", "adjustable", "health"]
+  },
+  {
+    "id": 1004,
+    "name": "Bluetooth Earbuds",
+    "catID": 2,
+    "catName": "Electronics",
+    "price": 59.99,
+    "currency": "USD",
+    "stock": 60,
+    "tags": ["audio", "wireless", "portable"]
+  },
+  {
+    "id": 1005,
+    "name": "Ceramic Coffee Mug",
+    "catID": 3,
+    "catName": "Home & Kitchen",
+    "price": 8.5,
+    "currency": "USD",
+    "stock": 200,
+    "tags": ["drinkware", "coffee", "ceramic"]
+  },
+  {
+    "id": 1006,
+    "name": "Gaming Keyboard RGB",
+    "catID": 2,
+    "catName": "Electronics",
+    "price": 89.95,
+    "currency": "USD",
+    "stock": 30,
+    "tags": ["gaming", "keyboard", "RGB"]
+  },
+  {
+    "id": 1007,
+    "name": "Adjustable Dumbbells (Pair)",
+    "catID": 1,
+    "catName": "Furniture",
+    "price": 129.99,
+    "currency": "USD",
+    "stock": 18,
+    "tags": ["exercise", "weights", "home gym"]
+  },
+  {
+    "id": 1008,
+    "name": "USB-C to HDMI Adapter",
+    "catID": 2,
+    "catName": "Electronics",
+    "price": 14.25,
+    "currency": "USD",
+    "stock": 80,
+    "tags": ["adapter", "USB-C", "display"]
+  },
+  {
+    "id": 1009,
+    "name": "LED Desk Lamp",
+    "catID": 1,
+    "catName": "Furniture",
+    "price": 34.99,
+    "currency": "USD",
+    "stock": 70,
+    "tags": ["lighting", "desk", "LED"]
+  },
+  {
+    "id": 1010,
+    "name": "Mechanical Pencil Set",
+    "catID": 3,
+    "catName": "Home & Kitchen",
+    "price": 6.99,
+    "currency": "USD",
+    "stock": 150,
+    "tags": ["drawing", "pencil", "school"]
+  },
+  {
+    "id": 1011,
+    "name": "Cast Iron Skillet",
+    "catID": 3,
+    "catName": "Home & Kitchen",
+    "price": 27.99,
+    "currency": "USD",
+    "stock": 40,
+    "tags": ["cooking", "kitchen", "durable"]
+  },
+  {
+    "id": 1012,
+    "name": "Wall Art Canvas (Abstract)",
+    "catID": 1,
+    "catName": "Furniture",
+    "price": 45.0,
+    "currency": "USD",
+    "stock": 35,
+    "tags": ["art", "home", "decor"]
+  },
+  {
+    "id": 1013,
+    "name": "Smartwatch with Heart Monitor",
+    "catID": 2,
+    "catName": "Electronics",
+    "price": 149.0,
+    "currency": "USD",
+    "stock": 22,
+    "tags": ["wearable", "fitness", "smart"]
+  },
+  {
+    "id": 1014,
+    "name": "Portable Air Purifier",
+    "catID": 3,
+    "catName": "Home & Kitchen",
+    "price": 89.99,
+    "currency": "USD",
+    "stock": 28,
+    "tags": ["air", "cleaner", "portable"]
+  }
+]
